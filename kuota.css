@@ -33,3 +33,6 @@ h1{
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
+.table-sm > :not(caption) > * > * {
+  padding: 0.25rem 0.25rem;
+}
