@@ -1,0 +1,100 @@
+*,html {
+    margin: 0;
+    padding: 0;
+}
+.container {
+
+}
+
+.container-navbar {
+    background-color: aqua;
+    width: 100%;
+    height:auto;
+    overflow-x: auto;
+    webkit-overflow-scrolling: touch;
+}
+
+.ul-navbar{
+display: flex;
+justify-content: center;
+align-items: center;
+height:auto;
+overflow-x: auto;
+
+}
+
+.li-navbar {
+list-style-type: none;
+padding: 10px;
+margin: 5px;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+font: bold;
+}
+
+.li-navbar:hover {
+    background-color: indigo;
+    transition: .2s ease-in-out;
+    transition-delay: .1s;
+    border-radius: 8px;
+}
+
+
+.container-conten {
+background-color: blanchedalmond;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+height:auto;
+}
+.img-conten {
+    width: 100%;
+    height:auto;
+}
+
+.container-footer {
+    background-color: beige;
+    display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+height:auto;
+}
+
+.h1-footter {
+    font-size: 80px;
+}
+.a-navbar{
+    color: rgb(1, 10, 0);
+    text-decoration: none;
+}
+
+.h2-footer {
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 80px;
+color: black;
+
+}
+
+.indosat6gb{
+    text-decoration: none;
+}
+
+.h3{
+    font-size: 50px;
+    color: rebeccapurple;
+}
+
+.biru{
+    font-size: 50px;
+    color: blue;
+}
+
+.oren {
+    
+        font-size: 50px;
+        color: rgb(255, 77, 0);
+    
+}
