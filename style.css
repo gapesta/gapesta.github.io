@@ -98,3 +98,12 @@ color: black;
         color: rgb(255, 77, 0);
     
 }
+
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
